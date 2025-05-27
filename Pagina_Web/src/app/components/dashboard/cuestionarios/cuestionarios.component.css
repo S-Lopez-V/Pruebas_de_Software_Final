@@ -1,0 +1,15 @@
+.jumbotron {
+    
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+}
+
+h1{
+    color:#fff
+}
+
+.btn-cues{
+    padding: 1rem 2rem;
+    border-radius: 300px;
+}

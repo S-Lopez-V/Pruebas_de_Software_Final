@@ -1,0 +1,26 @@
+h3{
+    color: white;
+}
+
+h6{
+    color: white;
+}
+h5{
+    color: white;
+}
+app-nueva-pregunta{
+    color: white;
+}
+.material-icons{
+    float: right;
+}
+.list-group-item{
+    padding: .20rem;
+    padding-left: 20px;
+}
+.btnfinalizar{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+}
